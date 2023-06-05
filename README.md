@@ -1,7 +1,9 @@
 LAB 3 DOCKER
 -------------------
-problem1
+problem 1
 --------
+Create 2 bridge network, "network1" with subnet 192.168.0.0/24 & "network2" with subnet 10.5.0.0/24
+
 ![Screenshot from 2023-06-05 17-40-49](https://github.com/Moaied-elshereif/sprints/assets/62815862/abbb2011-06f8-4520-aa4a-78171d054f0f)
 
 ![Screenshot from 2023-06-05 17-46-02](https://github.com/Moaied-elshereif/sprints/assets/62815862/438350f3-12a2-4e38-a7c0-60b69c8ea512)
@@ -9,7 +11,8 @@ problem1
 ![Screenshot from 2023-06-05 17-53-46](https://github.com/Moaied-elshereif/sprints/assets/62815862/eee49291-829f-47f8-842b-227596ac38ba)
 
 ![Screenshot from 2023-06-05 17-58-04](https://github.com/Moaied-elshereif/sprints/assets/62815862/5373227c-594f-4aca-8caa-2e704ecf0e04)
-
+Problem 2
+----------
 
 
 ![Screenshot from 2023-06-05 18-57-52](https://github.com/Moaied-elshereif/sprints/assets/62815862/29c661ad-9ecf-42a8-9228-d01edbadd93d)
